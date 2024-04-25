@@ -5,7 +5,6 @@ Solving the detection problem COVID-19
 This competition is the final project within the machine learning intensive course of the Yandex Academy (autumn 2023 season).
 The winners will receive honor and respect, as well as a brilliant performance with a story about their model at the graduation.
 
-
 ## Description
 In this competition you need to write a convolutional neural network for image classification.
 You are provided with a dataset of chest x-ray images, including:
@@ -19,6 +18,12 @@ In this homework there are no restrictions on the architecture of the model, but
 
 ## Evaluation
 **F1-SCORE**
+
+## Startup instructions
+1) Download ```YandexAcademy.ipynb``` and run it in Google Colab (or Kaggle, local device)
+2) Install all required dependencies from ```requirements.txt``` \
+   ```pip3 install -r requirements.txt```
+4) Download kaggle.json according to [this tutorial](https://stackoverflow.com/questions/49310470/using-kaggle-datasets-in-google-colab) and upload to google colab
 
 ## Competition link
 https://www.kaggle.com/competitions/ml-intensive-yandex-academy-spring-2024
