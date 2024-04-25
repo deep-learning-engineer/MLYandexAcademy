@@ -1,0 +1,16 @@
+PIL==9.4.0
+cv2==4.8.0
+matplotlib==3.7.1
+mpl_toolkits
+numpy==1.25.2
+pandas==2.0.3
+session_info==1.0.0
+sklearn==1.2.2
+torch==2.2.1+cu121
+torchsummary
+torchvision==0.17.1+cu121
+tqdm==4.66.2
+IPython==7.34.0
+jupyter_client==6.1.12
+jupyter_core==5.7.2
+notebook==6.5.5
